@@ -1,5 +1,7 @@
 ## N-th Tribonacci Numbert
 
+题目地址：https://leetcode.com/problems/n-th-tribonacci-number/
+
 题目描述：
 
 The Tribonacci sequence Tn is defined as follows: 
